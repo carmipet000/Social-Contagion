@@ -2,7 +2,7 @@
 layout: page
 show_title: false
 banner:
-  collection: Mental Health and Social Contagion in College Students
+  collection: contagion
   pid: obj10
   y: 25%
   height: '500px'
