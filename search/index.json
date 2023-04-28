@@ -1,0 +1,125 @@
+---
+layout: none
+---
+[
+  {
+    "pid": "obj5",
+    "label": "13 Reasons Why",
+    "_date": "2017",
+    "object_type": "example",
+    "source": "13 Reasons Why",
+    "description": "Popular media is capable of starting social contagions as well. According to CNN, teen suicide rates spiked after the release of the show “13 Reasons Why” on Netflix. The show depicts the aftermath of a highschool girl committing suicide.",
+    "collection": "contagion",
+    "thumbnail": "/img/derivatives/iiif/images/obj5/full/250,/0/default.jpg",
+    "permalink": "/contagion/obj5",
+    "lunr_id": 0
+  },
+  {
+    "pid": "obj10",
+    "label": "IU Bloomington applicability",
+    "_date": "2017",
+    "object_type": "relevance",
+    "source": "10 Tips for Getting Along With Your College Roommate (thoughtco.com)",
+    "description": "The following study concluded that mental illness can be spread from people that we spend lots of time with. This particular study looked at college roommates, showing that who we spend time with has a significant impact on our mental health. Link here: https://pubmed.ncbi.nlm.nih.gov/23055446/",
+    "collection": "contagion",
+    "thumbnail": "/img/derivatives/iiif/images/obj10/full/250,/0/default.jpg",
+    "permalink": "/contagion/obj10",
+    "lunr_id": 1
+  },
+  {
+    "pid": "obj1",
+    "label": "Placebo effect on Humans",
+    "_date": "2017",
+    "object_type": "psychology",
+    "source": "The weird power of the placebo effect, explained - Vox",
+    "description": "Popular culture clearly affects our conceptions of what mental illness is. This is important, as our conceptions have been proven to have a powerful impact on our health. First demonstrated by John Haygarth, the Placebo effect refers to the fact that if a patient believes a drug is the cure for their disease, they will experience a measurable reduction in their symptoms.",
+    "collection": "contagion",
+    "thumbnail": "/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg",
+    "permalink": "/contagion/obj1",
+    "lunr_id": 2
+  },
+  {
+    "pid": "obj4",
+    "label": "Dance Crazes was Literal",
+    "_date": "14th-17th Century",
+    "object_type": "example",
+    "source": "St. Vitus' Dance, by David Dzubay",
+    "description": "Now that we’ve established that perceptions influence us in psychologically significant ways, we can look at examples where this quirk was used to propagate unhealthy behaviors. One such example was in the St. Vitus Dance. People affected by this contagion would dance themselves to exhaustion, and then get up to dance some more. Many danced themselves to death.",
+    "collection": "contagion",
+    "thumbnail": "/img/derivatives/iiif/images/obj4/full/250,/0/default.jpg",
+    "permalink": "/contagion/obj4",
+    "lunr_id": 3
+  },
+  {
+    "pid": "obj9",
+    "label": "Demographics",
+    "_date": "2021",
+    "object_type": "relevance",
+    "source": "TikTok Statistics - Everything You Need to Know [Mar 2023 Update] (wallaroomedia.com)",
+    "description": "This graph illustrates the relevance of this topic to our age group, since just under a third of all tiktok users are young adults. Additionally, young adults are disproportionately effected by social contagion.",
+    "collection": "contagion",
+    "thumbnail": "/img/derivatives/iiif/images/obj9/full/250,/0/default.jpg",
+    "permalink": "/contagion/obj9",
+    "lunr_id": 4
+  },
+  {
+    "pid": "obj8",
+    "label": "TikTok",
+    "_date": "2016",
+    "object_type": "social media",
+    "source": "TikTok Logo and symbol, meaning, history, sign.",
+    "description": "According to PsychologyToday, There has been a spike in teens showing symptoms of tourettes due to people with tourettes gaining followers on tik tok. According to the article linked below, there was a spike in these “tic tok tics” during the pandemic, particularly among adolescent women. Tourette’s symptoms can include small ticks like subtle jerking motions, or be more extreme by causing the afflicted person to say things involuntarily.",
+    "collection": "contagion",
+    "thumbnail": "/img/derivatives/iiif/images/obj8/full/250,/0/default.jpg",
+    "permalink": "/contagion/obj8",
+    "lunr_id": 5
+  },
+  {
+    "pid": "obj3",
+    "label": "Fashion in 1970",
+    "_date": "1970",
+    "object_type": "example",
+    "source": "44 Colorful Pics Prove That 1970s Men's Fashion Was So Hilarious ~ Vintage Everyday",
+    "description": "\nAnother example of our perceptions being affected by how we’re conditioned is fashion. Fashion changes overtime. What makes this interesting is that it’s not just the fashion that is changing. Our perceptions of what is attractive and what is unattractive also change. This image depicts two men wearing something that would have been considered fashionable in the 1970s. They perceive their outfits as looking good, since they chose to wear them. However, we perceive the outfits as looking dorky, since fashion has changed",
+    "collection": "contagion",
+    "thumbnail": "/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg",
+    "permalink": "/contagion/obj3",
+    "lunr_id": 6
+  },
+  {
+    "pid": "obj7",
+    "label": "Why Tide Pods?",
+    "_date": "2018",
+    "object_type": "social media",
+    "source": "Why teenagers eat Tide pods - Harvard Health",
+    "description": "On TikTok, a “tide pod challenge” circulated. This challenge motivated teens to eat tide pods, which is extremely dangerous.",
+    "collection": "contagion",
+    "thumbnail": "/img/derivatives/iiif/images/obj7/full/250,/0/default.jpg",
+    "permalink": "/contagion/obj7",
+    "lunr_id": 7
+  },
+  {
+    "pid": "obj6",
+    "label": "Social Media in our Minds",
+    "_date": "2019",
+    "object_type": "social media",
+    "source": "The Dangers of Social Media - Nexus",
+    "description": "Social contagion often spreads through social media platforms. We will look at multiple examples here.",
+    "collection": "contagion",
+    "thumbnail": "/img/derivatives/iiif/images/obj6/full/250,/0/default.jpg",
+    "permalink": "/contagion/obj6",
+    "lunr_id": 8
+  },
+  {
+    "pid": "obj2",
+    "label": "Nocebo effect",
+    "_date": "2012",
+    "object_type": "psychology",
+    "source": "Opinion | Beware the Nocebo Effect - The New York Times",
+    "description": "The Nocebo effect is the inverse of the Placebo effect. Instead of drugs having a more positive impact on treatment of an illness, Nocebo is when a negative expectation causes your condition to worsen.",
+    "collection": "contagion",
+    "thumbnail": "/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg",
+    "permalink": "/contagion/obj2",
+    "lunr_id": 9
+  }
+]
