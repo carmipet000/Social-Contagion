@@ -1,6 +1,6 @@
 ---
 layout: exhibit
-title: Exhibit: Social Media and Pop Culture's Affect on Mental Health and Social Contagion 
+title: Exhibit: Pop Culture's Affect on Mental Health and Social Contagion 
 author: Mel Goldstein
 publish_date: 2023-04-28
 permalink: /exhibits/a/
