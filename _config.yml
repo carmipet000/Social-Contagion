@@ -114,9 +114,9 @@ menu:
         link: '/credits/'
   - label: 'Exhibits'
     sub:
-      - label: 'Our Collaboration'
+      - label: "Exhibit: Pop Culture's Affect on Mental Health and Social Contagion"
         link: '/exhibits/a/'
-      - label: 'Exhibit b'
+      - label: 'Our Collaboration'
         link: '/exhibits/b/'
   - label: 'Browse'
     link: '/collection/'
